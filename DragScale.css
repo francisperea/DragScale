@@ -1,0 +1,21 @@
+#outer {
+    position:relative;
+    height:400px;
+    width:350px;
+    z-index:1;
+    background:#F00;
+}
+#nested {
+    position:absolute;
+    left:10%; top:10%;
+    width:80%; height:80%;
+    z-index:2;
+    background:#00F;
+    cursor:pointer;
+    overflow: scroll;
+}
+#logo {
+    width:60%;
+    height:60%;
+}
+​

@@ -1,0 +1,9 @@
+---
+ name: Drag & Scale
+ description: Elemento arrastrable y escalable con scroll interior
+ authors:
+   - Francis Perea
+ resources:
+   - http://cdnjs.cloudflare.com/ajax/libs/jqueryui-touch-punch/0.2.2/jquery.ui.touch-punch.min.js
+ normalize_css: yes
+ ...
